@@ -63,6 +63,12 @@
 | Rs         | 3 bits | Source register          |
 | Immediate  | 8 bits | Immediate value to store |
 
+## Contributors
+
+- [Salwa Fayyad](https://github.com/SalwaFayyad)
+- [Sami Moqbel](https://github.com/SamiMoqbel)
+- [Lama Abuthaher](https://github.com/lamahabu)
+
 ![image](https://github.com/SalwaFayyad/Multicycle-Processor-/assets/104863637/4cd0bdbf-91cd-4914-9278-925878367b05)
 
 
